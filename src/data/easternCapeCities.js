@@ -1,0 +1,21 @@
+export const EASTERN_CAPE_CITIES = [
+  "Gqeberha",          
+  "East London",
+  "Mthatha",
+  "Makhanda",          
+  "Qonce",             
+  "Komani",            
+  "Bhisho",
+  "Cradock",
+  "Graaff-Reinet",
+  "Jeffreys Bay",
+  "Butterworth",
+  "Aliwal North",
+  "Fort Beaufort",
+  "Somerset East",
+  "Humansdorp",
+  "Middelburg",
+  "Stutterheim",
+  "Adelaide",
+  "Burgersdorp"
+];
